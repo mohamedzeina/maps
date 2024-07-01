@@ -14,6 +14,10 @@ export class User {
       lng: parseFloat(faker.address.longitude()),
     };
   }
+
+  markerContent(): string {
+    return `<h3>Username: ${this.name}</h3>`;
+  }
 }
 
 // using faker API to randomly generate the fields for the user
