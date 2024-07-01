@@ -1,4 +1,4 @@
-5546
+5552
 151D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\sv\name\first_name.d.ts133643067447779749 0
 95D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist\index.html133643092143611914 0
 142D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_ZA\cell_phone133643067430745107 1
@@ -31,7 +31,7 @@
 159D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\az\address\building_number.d.ts133643067443796204 0
 142D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\word\index.js133643067431600544 0
 150D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\es_MX\color\index.d.ts133643067451165463 0
-92D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules133643067460059045 1
+92D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules133643104737344992 1
 155D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\sk\address\city_suffix.d.ts133643067444683190 0
 150D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\ja\lorem\supplemental.js133643067440013617 0
 130D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\ge133643067451701707 1
@@ -41,7 +41,7 @@
 121D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\package.json133643067441082923 0
 139D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\pt_PT\color133643067452752724 1
 157D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\it\address\secondary_address.js133643067438014849 0
-92D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\package.json133643067460029049 0
+92D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\package.json133643104741064343 0
 153D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\pt_PT\cell_phone\formats.js133643067428689909 0
 156D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\nb_NO\address\city_name.d.ts133643067444402996 0
 145D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fa\vehicle\model.js133643067435927175 0
@@ -54,7 +54,7 @@
 148D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\sv\date\weekday.d.ts133643067459723693 0
 147D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\date\weekday.js133643067440714566 0
 146D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\uk\name\title.d.ts133643067459178421 0
-111D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\.package-lock.json133643067460059045 0
+111D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\.package-lock.json133643104741099447 0
 134D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\esm\locale\fr_CA.mjs133643067442756789 0
 148D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\ur\vehicle\type.d.ts133643067459328702 0
 149D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\it\address\index.d.ts133643067452046945 0
@@ -64,7 +64,7 @@
 136D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\el\finance133643067440274568 1
 143D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\tr\color\human.js133643067429566318 0
 148D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\vi\date\weekday.d.ts133643067459743702 0
-97D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\package-lock.json133643067460054043 0
+97D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\package-lock.json133643104741094436 0
 158D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\pt_PT\address\building_number.js133643067423687360 0
 146D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\hu\name\index.d.ts133643067451901869 0
 130D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\types\locales\ro133643067452827830 1
@@ -4452,6 +4452,7 @@
 153D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\nl_BE\phone_number\index.js133643067433009149 0
 150D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\nl_BE\name\first_name.js133643067427908170 0
 152D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\ja\phone_number\formats.js133643067428569817 0
+111D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types\google.maps133643104737344992 1
 153D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_NG\phone_number\index.js133643067430695064 0
 145D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\nl_BE\name\index.js133643067433009149 0
 149D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\nl_BE\name\last_name.js133643067435067333 0
@@ -4916,6 +4917,7 @@
 157D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\address\secondary_address.js133643067437994802 0
 145D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\address\state.js133643067438522918 0
 146D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\address\street.js133643067439533106 0
+121D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types\google.maps\README.md133643104740615799 0
 144D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\el\address\city.js133643067424504671 0
 154D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\address\street_address.js133643067438744861 0
 137D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\locales\fi\index.js133643067431286585 0
@@ -5545,3 +5547,7 @@
 138D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\definitions\lorem.js133643067435212680 0
 145D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@faker-js\faker\dist\cjs\definitions\phone_number.js133643067436911149 0
 106D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist\index.b71e74eb.js.map133643090192856767 0
+99D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types133643104737344992 1
+119D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types\google.maps\LICENSE133643104740605801 0
+122D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types\google.maps\index.d.ts133643104740999429 0
+124D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\node_modules\@types\google.maps\package.json133643104741024352 0
