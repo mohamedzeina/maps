@@ -26,4 +26,14 @@ export class CustomMap {
       },
     });
   }
+
+  setCompanyMarker(company: Company) {
+    new google.maps.Marker({
+      map: this.googleMap,
+      position: {
+        lat: company.location.lat,
+        lng: company.location.lng,
+      },
+    });
+  }
 }
