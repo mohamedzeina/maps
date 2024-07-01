@@ -1,0 +1,9 @@
+8
+84D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist133643060670138600 1
+95D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist\index.html133643060225310786 0
+90D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\index.html133643058645059441 0
+89D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\README.md133643057353958547 0
+83D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\src133643058870168708 1
+92D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\src\index.ts133643060676218086 0
+102D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist\index.b71e74eb.js133643060670113609 0
+106D:\Workspace\Udemy\React and Typescript Build a Portfolio Project\Maps App\maps\dist\index.b71e74eb.js.map133643060670138600 0
