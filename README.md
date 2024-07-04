@@ -4,7 +4,11 @@ The random generation is done using Faker API. The randomly generated locations 
 
 
 ## How To Run Locally
-Running the application using Parcel
+First, clone the repo to your local machine:
+```
+git clone https://github.com/mohamedzeina/maps.git
+```
+Then, run the application using Parcel:
 ```
 npx parcel index.html
 ```
